@@ -1,1 +1,1 @@
-# SNN
+# Spiking Neuran Network
