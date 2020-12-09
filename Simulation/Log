@@ -1,0 +1,7 @@
+2020/12/08
+Ctx: sin波*0.9+random*0.1
+Str: Resonant 10 / 振幅sin**7
+Ctx 10-30 / Str 10 / GPe 10 / SNr 10 / Weight 10-30
+Cotexの入力に支配的すぎる。もう少しresonantを増やして発火率を抑える。
+
+2020/12/09
