@@ -13,5 +13,6 @@ Ctx 6-8 / Str 5-7 / GPe 8-10 / SNr 6-8 / Weight 5-10
 前日のがとまっていたミス、やり直し。
 
 2020/12/12
+Striatumが6-7だといい感じ。Strの発火率に波の生成がかなり依存している(当たり前か)
 Resonant 20に変更
-Ctx
+Ctx 6-8 / Str 5-8 / GPe 8,10 / SNr 6,8 / Weight 6,8,10,12
