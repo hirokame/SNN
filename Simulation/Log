@@ -20,3 +20,13 @@ Ctx 6-8 / Str 5-8 / GPe 8,10 / SNr 6,8 / Weight 6,8,10,12
 
 2020/12/13
 Ctx 6,7 / Str 6,7(0.1刻み) / GPe 10 / SNr 8 / Weight 6,8(0.1刻み)
+
+2020/12/18
+LIF_striatum_resonant作成
+・膜電位をresonateさせる
+・周期のπを過ぎたらリセット可能
+・f(v)の関数を少し変更(-v　→　-v-65))
+Ctx 6,7 / Str 6,7(0.1刻み) / GPe 10 / SNr 8 / Weight 6,8(0.1刻み)
+
+2020/12/21
+・
