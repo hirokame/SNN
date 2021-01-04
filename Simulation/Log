@@ -83,3 +83,9 @@ Ctx10 / Str16,18,25 / GPe 9 / SNr 5,10,15,20 / Weight 10,15,20,25
 Str 18,25はresonateによる発火が強すぎてダメ。
 Str16もDop0で2Hzが勝ってDop1では3Hzが勝つという挙動になってしまっている。
 側抑制とかを入れてWinner-Take-All方式にしたりする必要がある？
+
+1/4
+resonateを1500に
+self.tの更新をinterval/5を超えたらOKにしてみる。
+ちゃんとしたresonate and Fireを作成(LIF_STRIATUM_resonate_20200104)
+Ctx 8,10 / Str 15,20 / GPe 7,9 / SNr 8,11 / Weight 6,9,12,15
