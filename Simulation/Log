@@ -89,3 +89,9 @@ resonateを1500に
 self.tの更新をinterval/5を超えたらOKにしてみる。
 ちゃんとしたresonate and Fireを作成(LIF_STRIATUM_resonate_20200104)
 Ctx 8,10 / Str 15,20 / GPe 7,9 / SNr 8,11 / Weight 6,9,12,15
+
+Striatumが全く発火していない。
+
+1/6
+Ctx→Strの結合を10倍にしてやってみる。
+
