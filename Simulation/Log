@@ -107,3 +107,7 @@ resonateさせた膜電位の計算方法を変更。活動電位(maxV)の状態
 1/14
 急に動かなくなっていたがrunge-kuttaの中のself.v+=dvが何故か消えていた。
 回し直し。
+
+1/15
+ほとんどresonateの振動がない。かつCortexでの活動に引っ張られすぎている
+→Weightをおとしてresonateのampを上げる。
