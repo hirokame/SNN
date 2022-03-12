@@ -1,1 +1,1 @@
-# Spiking Neuran Network
+# Spiking Neural Network
